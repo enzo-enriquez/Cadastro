@@ -27,3 +27,7 @@ Um sistema simples de portal de usuários com funcionalidade de registro e login
 *   **HTML5:** Estrutura das páginas web.
 *   **CSS3:** Estilização das páginas.
 *   **JavaScript: Lógica interativa das páginas e comunicação com o backend.
+
+Link do site no ar:
+https://venerable-froyo-7c953a.netlify.app/
+
